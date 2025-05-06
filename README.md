@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Muka36
 - Joined Github on jan24/2022
+- Experience in JavaScript and React.
 - 👀 I’m interested in making innovations
-- 🌱 I’m currently learning javascript
+- 🌱 Currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail me to : tmkarthickk@gmail.com
 
