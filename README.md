@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Muka36
 - Joined Github on jan24/2022
+- DSA problems as Daily pills.
 - Experience in JavaScript and React.
 - 👀 I’m interested in making innovations
-- 🌱 Currently learning Java
+- 🌱 Currently learning Java and core concepts 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail me to : tmkarthickk@gmail.com
 
