@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muka36
 - Joined Github on jan24/2022
-- DSA problems as Daily pills.
+- Take DSA problems as Daily pills.
 - Experience in JavaScript and React.
 - 👀 I’m interested in making innovations
 - 🌱 Currently learning Java and core concepts 
